@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** Taiwo Peter Ogedengbe
-- **CCID:** togedeng
+- **Full Name:** 
+- **CCID:** 
 
 ## References and Resources
 
