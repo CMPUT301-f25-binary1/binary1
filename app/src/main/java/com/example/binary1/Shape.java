@@ -5,7 +5,7 @@ public abstract class Shape {
     protected int y;
 
     // Choose one final color; adjust to match your team’s decision
-    protected String color = "blue";
+    protected String color = "red";
 
     public Shape() { }
 
