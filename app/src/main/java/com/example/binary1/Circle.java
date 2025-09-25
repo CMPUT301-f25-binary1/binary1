@@ -16,6 +16,11 @@ public class Circle extends Shape {
         this.radius = radius;
     }
 
+    protected String color = "blue";
+    public String getColor() { return color; }
+    public void setColor(String color) { this.color = color; }
+
+
     @Override
     public double area() {
         return Math.PI * radius * radius;
