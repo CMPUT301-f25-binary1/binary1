@@ -1,18 +1,13 @@
 package com.example.binary1;
 
-public class Circle extends Shape {
-    private double radius;
+import android.graphics.drawable.shapes.Shape;
 
-    public Circle(int x, int y, double radius) {
-        super(x, y);
+public abstract class circle extends Shape {
+    private int radius;
+
+    public circle(int x, int y, int radius) {
+        this.x = x;
+        this.y = y;
         this.radius = radius;
-    }
-
-    public double getRadius() { return radius; }
-    public void setRadius(double radius) { this.radius = radius; }
-
-    @Override
-    public double area() {
-        return Math.PI * radius * radius;
     }
 }
