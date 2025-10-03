@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name: MOHAMMEDAYAN BARIWALA** 
-- **CCID: bariwala** 
+- **Full Name: 
+- **CCID: 
 
 ## References and Resources
 
